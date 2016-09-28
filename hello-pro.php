@@ -5,6 +5,8 @@ Description: This is not just a plugin, it symbolizes the hope and enthusiasm of
 Author: Toni Viemerö
 Version: 1.0
 Author URI: https://selfdestruct.net/
+
+Original author: Matt Mullenweg
 */
 
 function hello_dolly_pro_get_lyric() {
